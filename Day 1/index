@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio</title>
+    <!-- <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; line-height: 1.6; }
+        header { background: #333; color: white; padding: 1rem; text-align: center; }
+        nav ul { list-style: none; padding: 0; }
+        nav ul li { display: inline; margin: 0 1rem; }
+        nav a { color: white; text-decoration: none; }
+        main { max-width: 800px; margin: 2rem auto; padding: 0 1rem; }
+        img { max-width: 100%; height: 140px; }
+        footer { background: #333; color: white; text-align: center; padding: 1rem; margin-top: 2rem; }
+        article { border: 1px solid #ddd; margin: 1rem 0; padding: 1rem; }
+        iframe { width: 100%; height: 300px; }
+    </style> -->
+    <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+
+<!-- index.html Content -->
+
+<header>
+    <h1>Divye Agarwal</h1>
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html">About</a></li>
+        </ul>
+    </nav>
+</header>
+
+<main>
+    <section>
+        <!-- <img src="/profile.jpeg" alt="Profile Photo" style="float: right; margin: 0 0 1rem 1rem;"> -->
+        <img src="/profile.jpeg" alt="Profile Photo">
+        
+        <p>I'm a first-year B.Tech IT student at NIT Raipur passionate about competitive programming, web development, and creating impactful digital experiences. With a 9.79 CGPA in my first semester, I thrive on solving complex problems through code and building innovative solutions.</p>
+    </section>
+
+    <section>
+        <h2>Skills</h2>
+        <ul>
+            <li>C++ Programming (Competitive Programming)</li>
+            <li>Data Structures & Algorithms</li>
+            <li>Web Development (HTML/CSS/JavaScript)</li>
+            <li>Python</li>
+            <li>Problem Solving & Optimization</li>
+        </ul>
+    </section>
+ 
+    <section>
+        <h2>Projects</h2>
+        <article>
+            <h3>Competitive Programming Solver</h3>
+            <p>A web application that helps track progress on Codeforces, LeetCode, and CodeChef problems with analytics dashboard.</p>
+        </article>
+        <article>
+            <h3>Portfolio Website</h3>
+            <p>This responsive portfolio showcasing skills, projects, and achievements using modern HTML5 semantic elements.</p>
+        </article>
+    </section>
+
+    <section>
+        <h2>Featured Video</h2>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/GIQ1WByBtN4?si=zc-quUdrEr5lmc_9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </section>
+
+    <section>
+        <h2>Testimonial</h2>
+        <blockquote>
+            "Exceptional problem-solving skills and a genuine passion for technology. One of the most promising first-year students I've seen."
+        </blockquote>
+        <cite>— Professor, NIT Raipur</cite>
+    </section>
+</main>
+
+<footer>
+    <p>&copy; 2026 Divye Agarwal. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
