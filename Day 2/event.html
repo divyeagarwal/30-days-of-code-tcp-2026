@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Tech Innovation Summit 2026</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        table {
+            border-collapse: collapse;
+            width: 100%;
+            margin-bottom: 30px;
+        }
+        table, th, td {
+            border: 1px solid #333;
+        }
+        th, td {
+            padding: 8px 12px;
+            text-align: left;
+        }
+        thead {
+            background-color: #f2f2f2;
+        }
+        form {
+            max-width: 600px;
+        }
+        .form-group {
+            margin-bottom: 12px;
+        }
+        label {
+            display: inline-block;
+            margin-bottom: 4px;
+        }
+        input[type="text"],
+        input[type="email"],
+        input[type="number"],
+        input[type="date"],
+        textarea {
+            width: 100%;
+            padding: 6px 8px;
+            box-sizing: border-box;
+        }
+        fieldset {
+            margin-bottom: 12px;
+        }
+        textarea {
+            height: 80px;
+            resize: vertical;
+        }
+        button[type="submit"] {
+            padding: 8px 16px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Section 1 — Event Schedule (Tables) -->
+    <h1>Tech Innovation Summit 2026 - Schedule</h1>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Time</th>
+                <th>Activity</th>
+                <th>Venue</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>09:00 AM - 10:00 AM</td>
+                <td>Registration & Welcome Tea</td>
+                <td>Main Lobby</td>
+            </tr>
+            <tr>
+                <td>10:00 AM - 11:30 AM</td>
+                <td>Keynote: Future of AI</td>
+                <td>Auditorium A</td>
+            </tr>
+            <tr>
+                <td>11:45 AM - 01:00 PM</td>
+                <td>Panel Discussion: Startups & Innovation</td>
+                <td>Conference Hall 1</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <!-- Section 2 — Registration Form (Forms & Inputs) -->
+    <h2>Event Registration Form</h2>
+
+    <form method="post" action="register.php">
+        <!-- Text input -->
+        <div class="form-group">
+            <label for="fullName">Full Name:</label>
+            <input type="text" id="fullName" name="fullName" required>
+        </div>
+
+        <!-- Email input -->
+        <div class="form-group">
+            <label for="email">Email Address:</label>
+            <input type="email" id="email" name="email" required>
+        </div>
+
+        <!-- Number input -->
+        <div class="form-group">
+            <label for="tickets">Number of Tickets:</label>
+            <input type="number" id="tickets" name="tickets" min="1" max="10" value="1">
+        </div>
+
+        <!-- Date input (optional) -->
+        <div class="form-group">
+            <label for="date">Preferred Date of Attendance:</label>
+            <input type="date" id="date" name="date">
+        </div>
+
+        <!-- Radio buttons (ticket type) -->
+        <fieldset>
+            <legend>Ticket Type:</legend>
+            <label for="standard">
+                <input type="radio" id="standard" name="ticketType" value="Standard" checked>
+                Standard
+            </label><br>
+            <label for="student">
+                <input type="radio" id="student" name="ticketType" value="Student">
+                Student
+            </label><br>
+            <label for="vip">
+                <input type="radio" id="vip" name="ticketType" value="VIP">
+                VIP
+            </label>
+        </fieldset>
+
+        <!-- Checkboxes (workshop preferences) -->
+        <fieldset>
+            <legend>Workshop Preferences:</legend>
+            <label for="ws-ai">
+                <input type="checkbox" id="ws-ai" name="workshops" value="AI">
+                AI & Machine Learning
+            </label><br>
+            <label for="ws-web">
+                <input type="checkbox" id="ws-web" name="workshops" value="Web Development">
+                Modern Web Development
+            </label><br>
+            <label for="ws-iot">
+                <input type="checkbox" id="ws-iot" name="workshops" value="IoT">
+                Data Science
+            </label>
+        </fieldset>
+
+        <!-- Textarea for comments -->
+        <div class="form-group">
+            <label for="comments">Comments / Special Requirements:</label>
+            <textarea id="comments" name="comments" placeholder="Mention any specific needs or questions here..."></textarea>
+        </div>
+
+        <!-- Submit button -->
+        <button type="submit">Submit Registration</button>
+    </form>
+
+</body>
+</html>
