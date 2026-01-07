@@ -1,11 +1,82 @@
-# 30-days-of-code-tcp-2026
 
-## Name - Divye Agarwal 
-## Branch - Information Technology
-## Roll No.- 25118034
-https://drive.google.com/file/d/1hJZdzVVPOEbwsh31rpg0cqu3XfsHqxtk/view?usp=drivesdk 
-https://drive.google.com/file/d/1ZtQkQNAjZMuEiu8gHn2FDruPTrUkXR3n/view?usp=drivesdk
-https://drive.google.com/file/d/1MSJ_Oy2nNwg8udDwQhsu_3-UI4CvnVSa/view?usp=drivesdk
-https://drive.google.com/file/d/1az0mgnQajsuLuwYA2E3KX661mL94t9VW/view?usp=drivesdk
-https://drive.google.com/file/d/1UtTGxQZmHAaC0Wl81uVUBZ5NFjEhyJGm/view?usp=drivesdk
-https://drive.google.com/file/d/1o9EB0R9JT_g897Kmiq4Gs2bqP-gWXTcT/view?usp=drivesdk
+# 30-days-of-code-tcp-2026
+Divye Agarwal
+<br>
+Information Technology
+<br>
+25118034
+<br>
+<section>
+  <h2>
+    DAY 1 — Personal Portfolio (HTML Only)
+  </h2>
+  <h3>
+    Porfolio home (index.html)
+  </h3>
+  <img width="1919" height="1018" alt="portfolio 1" src="https://github.com/divyeagarwal/30-days-of-code-tcp-2026/blob/162e34391a6fa8a53e09fff907242bbc4c07380f/Day%201/screenshots/portfolio.png?raw=true" />
+  
+
+  <h3>
+    About me (about.html)
+  </h3>
+  <img width="1919" height="1015" alt="about 1" src="https://github.com/divyeagarwal/30-days-of-code-tcp-2026/blob/162e34391a6fa8a53e09fff907242bbc4c07380f/Day%201/screenshots/about.png?raw=true" />
+  
+</section>
+<section>
+  <h2>
+    DAY 2
+  </h2>
+  <h3>
+    Develop a single HTML page that demonstrates your understanding of tables and basic HTML forms.
+  </h3>
+  <img width="1919" height="1018" alt="day_2-ss_1" src="https://github.com/divyeagarwal/30-days-of-code-tcp-2026/blob/162e34391a6fa8a53e09fff907242bbc4c07380f/Day%202/screenshots/form.png?raw=true" />
+  
+</section>
+
+<section>
+  <h2>
+    DAY - 3 : Portfolio Styling (Core CSS Fundamentals)
+  </h2>
+  <h3>
+    Porfolio home (index.html)
+  </h3>
+  <img width="1919" height="1018" alt="portfolio 1" src="https://github.com/divyeagarwal/30-days-of-code-tcp-2026/blob/162e34391a6fa8a53e09fff907242bbc4c07380f/Day%203%20-Portfolio%20Styling%20Core%20CSS%20Fundamentals/screenshots/portfolio.png.png?raw=true" />
+  
+  <h3>
+    About me (about.html)
+  </h3>
+  <img width="1919" height="1015" alt="about 1" src="https://github.com/divyeagarwal/30-days-of-code-tcp-2026/blob/162e34391a6fa8a53e09fff907242bbc4c07380f/Day%203%20-Portfolio%20Styling%20Core%20CSS%20Fundamentals/screenshots/about.png.png?raw=true" />
+
+</section>
+
+<section>
+  <h2>
+    Day 4 Responsive Product Landing Page
+  </h2>
+  <h3>
+    Build a product landing page that shows you can use Flexbox layouts, responsive design, CSS variables, transitions, and basic animations.
+  </h3>
+  <img width="1919" height="1018" alt="day_4-ss_1" src="https://github.com/divyeagarwal/30-days-of-code-tcp-2026/blob/162e34391a6fa8a53e09fff907242bbc4c07380f/Day%204%20Responsive%20Product%20Landing%20Page/screenshots/Day%204-1.png.png?raw=true" />
+  <img width="1919" height="1018" alt="day_4-ss_2" src="https://github.com/divyeagarwal/30-days-of-code-tcp-2026/blob/162e34391a6fa8a53e09fff907242bbc4c07380f/Day%204%20Responsive%20Product%20Landing%20Page/screenshots/Day%204-2.png.png?raw=true" />
+  <img width="1919" height="1018" alt="day_4-ss_3" src="https://github.com/divyeagarwal/30-days-of-code-tcp-2026/blob/162e34391a6fa8a53e09fff907242bbc4c07380f/Day%204%20Responsive%20Product%20Landing%20Page/screenshots/Day%204-3.png.png?raw=true" />
+  
+</section>
+
+<section>
+  <h2>
+    Day 5 Tic Tac Toe
+  </h2>
+  <h3>
+Develop a Tic-Tac-Toe website featuring visually appealing animations for win, loss, and draw scenarios. The project must consist of exactly three files: index.html, index.js, and index.css. Ensure that the stylesheet and script files are properly linked within the HTML file.
+  </h3>
+  <img width="1919" height="1018" alt="playerx_select" src="https://github.com/divyeagarwal/30-days-of-code-tcp-2026/blob/162e34391a6fa8a53e09fff907242bbc4c07380f/Day%205%20-Tic%20Tac%20Toe/screenshots/Day5-1.png.png?raw=true" />
+  <img width="1919" height="1018" alt="playero_select" src="https://github.com/divyeagarwal/30-days-of-code-tcp-2026/blob/162e34391a6fa8a53e09fff907242bbc4c07380f/Day%205%20-Tic%20Tac%20Toe/screenshots/Day5-2.png.png?raw=true" />
+  <img width="1919" height="1018" alt="game" src="https://github.com/divyeagarwal/30-days-of-code-tcp-2026/blob/162e34391a6fa8a53e09fff907242bbc4c07380f/Day%205%20-Tic%20Tac%20Toe/screenshots/Day5-3.png.png?raw=true" />
+</section>
+
+<section>
+  <h2>
+    Day 6 Time Complexity
+  </h2>
+  <img width="1919" height="1018" alt="proof" src="https://github.com/divyeagarwal/30-days-of-code-tcp-2026/blob/162e34391a6fa8a53e09fff907242bbc4c07380f/Day%206%20Time%20Complexity/proof.png.png?raw=true" />
+</section>  
