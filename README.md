@@ -80,3 +80,10 @@ Develop a Tic-Tac-Toe website featuring visually appealing animations for win, l
   </h2>
   <img width="1919" height="1018" alt="proof" src="https://github.com/divyeagarwal/30-days-of-code-tcp-2026/blob/162e34391a6fa8a53e09fff907242bbc4c07380f/Day%206%20Time%20Complexity/proof.png.png?raw=true" />
 </section>  
+
+<section>
+  <h2>
+    Day & Arrays
+  </h2>
+  <img width="1919" height="1018" alt="proof" src="https://github.com/divyeagarwal/30-days-of-code-tcp-2026/blob/cd9fed042e49dfdf5c12d980b5741a46e7f0da55/Day%207%20-Arrays/Output.png?raw=true" />
+</section>  
