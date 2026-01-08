@@ -18,6 +18,7 @@ public:
             ans+=base*maxi;
         }
         return ans;
+    
     }
 };
 
