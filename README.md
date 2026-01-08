@@ -86,4 +86,11 @@ Develop a Tic-Tac-Toe website featuring visually appealing animations for win, l
     Day 7 Arrays
   </h2>
   <img width="1919" height="1018" alt="proof" src="https://github.com/divyeagarwal/30-days-of-code-tcp-2026/blob/cd9fed042e49dfdf5c12d980b5741a46e7f0da55/Day%207%20-Arrays/Output.png?raw=true" />
-</section>  
+</section>
+
+<section>
+  <h2>
+    Day 8 Longest Consecutive Sequence
+  </h2>
+  <img width="1919" height="1018" alt="proof" src="https://github.com/divyeagarwal/30-days-of-code-tcp-2026/blob/0decac4302dd5ae5609377537d5d1a244646b47e/Day%208-Longest%20Consecutive%20SEquence/output.png.png?raw=true" />
+</section>
