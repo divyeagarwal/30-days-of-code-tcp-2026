@@ -104,12 +104,7 @@ Develop a Tic-Tac-Toe website featuring visually appealing animations for win, l
 
 <section>
   <h2>
-    Day 10 Sort an array of 0's,1's and 2's
+    Day 10 Sort an Array of 0's,1's and 2's
   </h2>
-  <img width="1919" height="1018" alt="proof" src="<section>
-  <h2>
-    Day 9 Largest Odd Number In String
-  </h2>
-  <img width="1919" height="1018" alt="proof" src="https://github.com/divyeagarwal/30-days-of-code-tcp-2026/blob/1962eabf70b94b5fbdbdef8d7c906e17e2ce58ba/Day%209%20Largest%20Odd%20number%20in%20string/output.png?raw=true" />
-</section>?raw=true" />
+  <img width="1919" height="1018" alt="proof" src="https://github.com/divyeagarwal/30-days-of-code-tcp-2026/blob/0e7146424f2fa21f0e85d3fb769e5c7ce4efe412/Day%2010%20Sort%20an%20Array%20of%200's%2C1's%20and%202's/output.png?raw=true" />
 </section>
