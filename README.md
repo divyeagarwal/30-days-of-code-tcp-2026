@@ -112,5 +112,5 @@ Develop a Tic-Tac-Toe website featuring visually appealing animations for win, l
 <section>
   <h2>
     Day 11 Merge Sort
-  <img width="1919" height="1018" alt="proof" src="https://github.com/divyeagarwal/30-days-of-code-tcp-2026/blob/0e7146424f2fa21f0e85d3fb769e5c7ce4efe412/Day%2010%20Sort%20an%20Array%20of%200's%2C1's%20and%202's/output.png?raw=true" />
+  <img width="1919" height="1018" alt="proof" src="https://github.com/divyeagarwal/30-days-of-code-tcp-2026/blob/ecf0702ba8f6959904b19a5c76b5d2d738de0608/Day%2011%20Merge%20Sort/output.png?raw=true" />
 </section>
