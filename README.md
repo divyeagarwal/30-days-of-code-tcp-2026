@@ -118,5 +118,5 @@ Develop a Tic-Tac-Toe website featuring visually appealing animations for win, l
 <section>
   <h2>
     Day 12 First and Last Position Of Element in Sorted Array 
-  <img width="1919" height="1018" alt="proof" src="https://github.com/divyeagarwal/30-days-of-code-tcp-2026/blob/c2b52163f82bc6922fea4c19f23c0213e3ab6c52/Day%2012%20First%20and%20Last%20Position%20Of%20Element/output.png?raw=true" />
+  <img width="1919" height="1018" alt="proof" src="https://github.com/divyeagarwal/30-days-of-code-tcp-2026/blob/0e62c2d5cd16712c5c541a7137499b50f7876599/Day%2012%20First%20and%20Last%20Position%20Of%20Element/output.png?raw=true" />
 </section>
