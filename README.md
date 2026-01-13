@@ -123,6 +123,6 @@ Develop a Tic-Tac-Toe website featuring visually appealing animations for win, l
 
 <section>
   <h2>
-    Day 12 First and Last Position Of Element in Sorted Array 
+    Day 13 Koko Eating Bananas
   <img width="1919" height="1018" alt="proof" src="https://github.com/divyeagarwal/30-days-of-code-tcp-2026/blob/7add74c9437cf1643394e5463d3e6b64c5dec082/Day%2013/output.png?raw=true" />
 </section>
