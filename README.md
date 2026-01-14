@@ -126,3 +126,9 @@ Develop a Tic-Tac-Toe website featuring visually appealing animations for win, l
     Day 13 Koko Eating Bananas
   <img width="1919" height="1018" alt="proof" src="https://github.com/divyeagarwal/30-days-of-code-tcp-2026/blob/7add74c9437cf1643394e5463d3e6b64c5dec082/Day%2013/output.png?raw=true" />
 </section>
+
+<section>
+  <h2>
+    Day 14 Bits Manipulation
+  <img width="1919" height="1018" alt="proof" src="https://github.com/divyeagarwal/30-days-of-code-tcp-2026/blob/45b1078cb75b494f5d5e45665548de4ba42cedbd/Day%2014/output.png?raw=true" />
+</section>
