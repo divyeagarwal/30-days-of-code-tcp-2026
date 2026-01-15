@@ -132,3 +132,9 @@ Develop a Tic-Tac-Toe website featuring visually appealing animations for win, l
     Day 14 Bits Manipulation
   <img width="1919" height="1018" alt="proof" src="https://github.com/divyeagarwal/30-days-of-code-tcp-2026/blob/45b1078cb75b494f5d5e45665548de4ba42cedbd/Day%2014/output.png?raw=true" />
 </section>
+<section>
+  <h2>
+    Day 15 Ugly Number |||
+  <img width="1919" height="1018" alt="proof" src="https://github.com/divyeagarwal/30-days-of-code-tcp-2026/blob/39779947b2f0172ffa953c9e2a4fe81950c3d2ed/Day%2015%20Ugly%20Number%20III/output.png?raw=true" />
+</section>
+
