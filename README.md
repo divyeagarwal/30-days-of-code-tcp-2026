@@ -150,6 +150,11 @@ Develop a Tic-Tac-Toe website featuring visually appealing animations for win, l
     Day 17 Count Good Numbers
   <img width="1919" height="1018" alt="proof" src="https://github.com/divyeagarwal/30-days-of-code-tcp-2026/blob/9901af313a04c1d603db80fbddfba8bf866dc54a/Day%2017/output.png?raw=true" />
 </section>
+<section>
+  <h2>
+    Day 18 N Queens
+  <img width="1919" height="1018" alt="proof" src="https://github.com/divyeagarwal/30-days-of-code-tcp-2026/blob/3a073435cc546329a5d2a394f2e323c2d0e05b65/Day%2018/output.png?raw=true" />
+</section>
 
 
 
