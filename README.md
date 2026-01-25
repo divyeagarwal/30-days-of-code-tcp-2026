@@ -193,6 +193,12 @@ Develop a Tic-Tac-Toe website featuring visually appealing animations for win, l
   <img width="1919" height="1018" alt="proof" src="https://github.com/divyeagarwal/30-days-of-code-tcp-2026/blob/e9b5a04810efba280e9cffba827e349e5338114b/Day%2024/output.png?raw=true" />
 </section>
 
+<section>
+  <h2>
+    Day 25
+  <img width="1919" height="1018" alt="proof" src="https://github.com/divyeagarwal/30-days-of-code-tcp-2026/blob/d9a6d022946023a237e58ba51377239140698c16/Day%2025/output.png?raw=true" />
+</section>
+
 
 
 
